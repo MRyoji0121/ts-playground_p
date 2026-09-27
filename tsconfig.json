@@ -5,7 +5,11 @@
     "module": "NodeNext",
     "moduleDetection": "force",
     "rootDir": "./src",
+<<<<<<< HEAD
     "outDir": ".gitignore/dist",
+=======
+    "outDir": "./dist",
+>>>>>>> 558152d15ae9139e8c330c3f0ff147bc21294ab8
     "types": ["node"],
     "strict": true,
     "noUncheckedIndexedAccess": true,
